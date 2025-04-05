@@ -1,1 +1,1 @@
-# Pitcher_Throw_Analysis_BioMechanics
+# Pitcher-Throw-Analysis-BioMechanics
