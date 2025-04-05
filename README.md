@@ -40,7 +40,7 @@ pip install pandas numpy matplotlib scikit-learn scipy
 
 2. Download the POI dataset from [OpenBioMechanics](https://www.openbiomechanics.org) and save it as `poi_metrics.csv` in the project directory.
 
-3. Open the Jupyter Notebook `Pitcher_Throw_Analysis_BioMechanics.ipynb` in your preferred Python environment (e.g., JupyterLab, Google Colab).
+3. Open the Jupyter Notebook `Pitcher-Throw-Analysis-BioMechanics.ipynb` in your preferred Python environment (e.g., JupyterLab, Google Colab).
 
 4. Follow the instructions in the notebook to perform the analysis.
 
