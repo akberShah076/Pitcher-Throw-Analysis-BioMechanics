@@ -59,11 +59,3 @@ The analysis identified a moderately strong positive correlation (Pearson r = 0.
 ## Contributing
 
 If you'd like to contribute to the project, feel free to open issues or submit pull requests. Any improvements or new ideas are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to adjust any further details!
